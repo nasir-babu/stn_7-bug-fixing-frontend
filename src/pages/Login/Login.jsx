@@ -75,7 +75,7 @@ export default function Login() {
                             </button>
                             <button
                                 type="button"
-                                onClick={() => handleQuickLogin("student@coursemaster.com", "student123")}
+                                onClick={() => handleQuickLogin("nasir21b+1234@gmail.com", "123456")}
                                 className="btn btn-xs btn-outline btn-secondary gap-1 font-semibold"
                             >
                                 <UserCheck className="w-3 h-3" /> Student Fill
