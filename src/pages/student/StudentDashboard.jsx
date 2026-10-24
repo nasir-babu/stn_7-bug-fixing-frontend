@@ -336,6 +336,7 @@ export default function StudentDashboard() {
                     )}
                   </div>
 
+
                   {/* Expanded Details */}
                   {isExpanded && (
                     <div className="mt-6 space-y-4 border-t border-base-300 pt-4">
